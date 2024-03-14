@@ -1,0 +1,14 @@
+package go;
+
+public class Mini {
+
+	public Mini() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
